@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section is a list of the journal articles assigned for each class
+  session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ readings
 
 Introduction to the Course
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L1summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L1summary" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ No Readings
 
 RiPPs (ribosomally synthesized and post-translationally modified peptides): Discovery via Culture/Manipulation of the Native Producer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L2summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L2summary" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +76,7 @@ Stein T., Borchert S., Conrad B., Feesch, J., Hofemeister B., Hofemeister J., En
 
 RiPPs: Discovery via Genomics/Data-Driven Strategies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L3summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L3summary" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +100,7 @@ Schwalen C.J., Hudson G.A., Kille B., Mitchell D.A. [Bioinformatic Expansion and
 
 RiPPs: Biosynthesis and Enzyme Function/Mechanism
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L4summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L4summary" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +124,7 @@ LaMattina J.W., Wang B., Badding E.D., Gadsby L.K., Grove T.L., Booker S.J. [Nos
 
 RiPPs: Engineering
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L5summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L5summary" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +148,7 @@ Sardar D., Lin Z., Schmidt E. [Modularity of RiPP Enzymes Enables Designed Synth
 
 Panel Discussion with Natural Product Professionals
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L6summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L6summary" %}}
 
 
 {{< tdclose >}}
@@ -164,14 +166,14 @@ No Readings
 
 NRPs (non-ribosomal peptide NPs): Discovery via Genomics/Data-Driven Strategies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L7summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L7summary" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Yamanaka K., Reynolds K.A., Kerstena R.D., Ryana K.S., Gonzalez D.J., Nizete V., Dorrestein P.C., Moore B.S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Direct Cloning and Refactoring of a Silent Lipopeptide Biosynthetic Gene Cluster Yields the Antibiotic Taromycin A (PDF)](https://www.pnas.org/content/pnas/111/5/1957.full.pdf). _Proc. Natl. Acad. Sci. U.S.A._, 2014, 111, 1957–1962.
+Yamanaka K., Reynolds K.A., Kerstena R.D., Ryana K.S., Gonzalez D.J., Nizete V., Dorrestein P.C., Moore B.S.  [Direct Cloning and Refactoring of a Silent Lipopeptide Biosynthetic Gene Cluster Yields the Antibiotic Taromycin A (PDF)](https://www.pnas.org/content/pnas/111/5/1957.full.pdf). _Proc. Natl. Acad. Sci. U.S.A._, 2014, 111, 1957–1962.
 
 Goering A.W., McClure R.A., Doroghazi J.R., Albright J.C., Haverland N.A., Zhang  Y., Ju K.-S., Thomson R.J., Metcalf W.W., Kelleher N.L. [Metabologenomics: Correlation of Microbial Gene Clusters with Metabolites Drives Discovery of a  Nonribosomal Peptide with an Unusual Amino Acid Monomer](https://pubs.acs.org/doi/10.1021/acscentsci.5b00331). _ACS Cent. Sci._ 2016, 2, 99–108.  
  
@@ -189,7 +191,7 @@ Goering A.W., McClure R.A., Doroghazi J.R., Albright J.C., Haverland N.A., Zhang
 
 NRPs: Biosynthesis and Enzyme Function/Mechanism
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L8summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L8summary" %}}
 
 
 {{< tdclose >}}
@@ -213,7 +215,7 @@ Dunbar K.L., Dell M., Gude F., Hertweck C. [Reconstitution of Polythioamide  An
 
 NRPs: Engineering
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L9summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L9summary" %}}
 
 
 {{< tdclose >}}
@@ -222,7 +224,7 @@ NRPs: Engineering
 
 Niquille D.L., Hansen D.A., Mori T., Fercher D., Kries H., Hilvert D. [Nonribosomal Biosynthesis of Backbone-Modified Peptides](https://www.nature.com/articles/nchem.2891). _Nat. Chem._ 2018, 10, 282–287.
 
-Awakawa T., Fujioka T., Zhang L., Hoshino S., Hu Z., Hashimoto J., Kozone I., Ikeda H., Shin-Ya K., Liu W., Abe I. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Reprogramming of the Antimycin NRPS-PKS Assembly Lines Inspired by Gene Evolution (PDF - 1.4MB)](https://www.nature.com/articles/s41467-018-05877-z.pdf). _Nat. Commun._ 2018, 9, 3534.
+Awakawa T., Fujioka T., Zhang L., Hoshino S., Hu Z., Hashimoto J., Kozone I., Ikeda H., Shin-Ya K., Liu W., Abe I.  [Reprogramming of the Antimycin NRPS-PKS Assembly Lines Inspired by Gene Evolution (PDF - 1.4MB)](https://www.nature.com/articles/s41467-018-05877-z.pdf). _Nat. Commun._ 2018, 9, 3534.
 
 
 {{< tdclose >}}
@@ -237,7 +239,7 @@ Awakawa T., Fujioka T., Zhang L., Hoshino S., Hu Z., Hashimoto J., Kozone I., Ik
 
 Plant NPs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L10summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L10summary" %}}
 
 
 {{< tdclose >}}
@@ -261,7 +263,7 @@ Brown S., Clastre M., Courdavault V., O’Connor S.E. [De Novo Production of the
 
 Culture-Dependent and Metagenomic Methods of NP Discovery from Complex Environments
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L11summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L11summary" %}}
 
 
 {{< tdclose >}}
@@ -285,7 +287,7 @@ Cohen L.J., Han S., Huang Y.-H., Brady S.F. [Identification of the Colicin V Bac
 
 Applications of NPs in Combating Diseases
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L12summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L12summary" %}}
 
 
 {{< tdclose >}}
@@ -309,7 +311,7 @@ Hartkoorn R.C., Sala C., Neres J., Pojer F., Magnet S., Mukherjee R., Uplekar S.
 
 Student Presentations and Evaluation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L13summary)
+{{% resource_link 944b9a5e-db4a-4be7-c81e-4e7b400577be "See the Lecture Summary" "#L13summary" %}}
 
 
 {{< tdclose >}}

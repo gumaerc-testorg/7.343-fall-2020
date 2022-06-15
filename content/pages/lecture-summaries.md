@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes brief descriptions of topics covered in each class
+  session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -253,7 +255,7 @@ Student Presentations and Evaluation
 {{< tdopen >}}
 
 
-{{< anchor "L13summary" >}}{{< /anchor >}}Students will give their oral presentations as outlined in the [Assignments]({{< baseurl >}}/pages/assignments) section. Students also will complete a course evaluation.
+{{< anchor "L13summary" >}}{{< /anchor >}}Students will give their oral presentations as outlined in the {{% resource_link 81d93051-8824-7c26-6d38-f900084d91e1 "Assignments" %}} section. Students also will complete a course evaluation.
 
 
 {{< tdclose >}}
