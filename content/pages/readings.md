@@ -59,9 +59,9 @@ RiPPs (ribosomally synthesized and post-translationally modified peptides): Disc
 {{< tdopen >}}
 
 
-Lynch D., O'Connor P.M., Cotter P.D., Hill C., Field D., Begley M. [Identification and Characterisation of Capidermicin, a Novel Bacteriocin Produced by _Staphylococcus capitis_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223541), _PLoS ONE_, 2019, 14, e0223541.
+Lynch D., O'Connor P.M., Cotter P.D., Hill C., Field D., Begley M. {{% resource_link "23ca3cb5-1bff-46ed-b18b-3142372127c9" "Identification and Characterisation of Capidermicin, a Novel Bacteriocin Produced by _Staphylococcus capitis_" %}}, _PLoS ONE_, 2019, 14, e0223541.
 
-Stein T., Borchert S., Conrad B., Feesch, J., Hofemeister B., Hofemeister J., Entian K.-D. [Two Different Lantibiotic-Like Peptides Originate from the Ericin Gene Cluster of _Bacillus subtilis_ A1/3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC134901/), _J. Bacteriol._, 2002, 184, 1703–1711.
+Stein T., Borchert S., Conrad B., Feesch, J., Hofemeister B., Hofemeister J., Entian K.-D. {{% resource_link "164e8ff5-aae5-4666-8ea2-7aed99379728" "Two Different Lantibiotic-Like Peptides Originate from the Ericin Gene Cluster of _Bacillus subtilis_ A1/3" %}}, _J. Bacteriol._, 2002, 184, 1703–1711.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ RiPPs: Discovery via Genomics/Data-Driven Strategies
 {{< tdopen >}}
 
 
-Zhao X., van der Donk W.A. [Structural Characterization and Bioactivity Analysis of the Two-Component Lantibiotic _Flv_ System from a Ruminant Bacterium](https://www.sciencedirect.com/science/article/pii/S245194561600026X). _Cell Chem. Biol._ 2016, 23, 246–256.
+Zhao X., van der Donk W.A. {{% resource_link "cb195859-a927-47ee-aa23-eccc7914b6b3" "Structural Characterization and Bioactivity Analysis of the Two-Component Lantibiotic _Flv_ System from a Ruminant Bacterium" %}}. _Cell Chem. Biol._ 2016, 23, 246–256.
 
-Schwalen C.J., Hudson G.A., Kille B., Mitchell D.A. [Bioinformatic Expansion and Discovery of Thiopeptide Antibiotics](https://pubs.acs.org/doi/10.1021/jacs.8b03896). _J. Am. Chem. Soc._ 2018, 140, 9494–9501.
+Schwalen C.J., Hudson G.A., Kille B., Mitchell D.A. {{% resource_link "f6e6651a-c2d1-4104-82f8-5a01ddc66e91" "Bioinformatic Expansion and Discovery of Thiopeptide Antibiotics" %}}. _J. Am. Chem. Soc._ 2018, 140, 9494–9501.
 
 
 {{< tdclose >}}
@@ -107,9 +107,9 @@ RiPPs: Biosynthesis and Enzyme Function/Mechanism
 {{< tdopen >}}
 
 
-Ortega M.A., Hao Y., Walker, M.C., Donadio S., Sosio M., Nair S.K., van der Donk W.A. [Structure and tRNA Specificity of MibB, a Lantibiotic Dehydratase from Actinobacteria Involved in NAI-107 Biosynthesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4798866/). _Cell Chem. Biol._ 2016, 23, 370–380.
+Ortega M.A., Hao Y., Walker, M.C., Donadio S., Sosio M., Nair S.K., van der Donk W.A. {{% resource_link "862170a4-99b5-4db1-9809-8b61a1a77bc2" "Structure and tRNA Specificity of MibB, a Lantibiotic Dehydratase from Actinobacteria Involved in NAI-107 Biosynthesis" %}}. _Cell Chem. Biol._ 2016, 23, 370–380.
 
-LaMattina J.W., Wang B., Badding E.D., Gadsby L.K., Grove T.L., Booker S.J. [NosN, a Radical S-Adenosylmethionine Methylase, Catalyzes Both C1 Transfer  and Formation of the Ester Linkage of the Side-Ring System During the Biosynthesis of Nosiheptide](https://europepmc.org/article/med/29039940). _J. Am. Chem. Soc._ 2017, 139, 17438–17445.
+LaMattina J.W., Wang B., Badding E.D., Gadsby L.K., Grove T.L., Booker S.J. {{% resource_link "60376001-8bbe-403f-9de5-f9469ba59fe8" "NosN, a Radical S-Adenosylmethionine Methylase, Catalyzes Both C1 Transfer  and Formation of the Ester Linkage of the Side-Ring System During the Biosynthesis of Nosiheptide" %}}. _J. Am. Chem. Soc._ 2017, 139, 17438–17445.
 
 
 {{< tdclose >}}
@@ -131,9 +131,9 @@ RiPPs: Engineering
 {{< tdopen >}}
 
 
-Ozaki T., Yamashita K., Goto Y., Shimomura M., Hayashi S., Asamizu S., Sugai Y., Ikeda H., Suga H., Onaka H. [Dissection of Goadsporin Biosynthesis by _in vitro_ Reconstitution Leading to Designer Analogues Expressed _in vivo_](https://www.nature.com/articles/ncomms14207). _Nat. Commun._ 2017, 8, 14207.
+Ozaki T., Yamashita K., Goto Y., Shimomura M., Hayashi S., Asamizu S., Sugai Y., Ikeda H., Suga H., Onaka H. {{% resource_link "95f4b137-0947-42ce-8504-6c775817791e" "Dissection of Goadsporin Biosynthesis by _in vitro_ Reconstitution Leading to Designer Analogues Expressed _in vivo_" %}}. _Nat. Commun._ 2017, 8, 14207.
 
-Sardar D., Lin Z., Schmidt E. [Modularity of RiPP Enzymes Enables Designed Synthesis of Decorated Peptides](https://pubmed.ncbi.nlm.nih.gov/26165156/). _Chem. Biol._ 2015, 22, 907–916.
+Sardar D., Lin Z., Schmidt E. {{% resource_link "6667df12-b685-4451-b127-c8fba660ecbe" "Modularity of RiPP Enzymes Enables Designed Synthesis of Decorated Peptides" %}}. _Chem. Biol._ 2015, 22, 907–916.
 
 
 {{< tdclose >}}
@@ -173,9 +173,9 @@ NRPs (non-ribosomal peptide NPs): Discovery via Genomics/Data-Driven Strategies
 {{< tdopen >}}
 
 
-Yamanaka K., Reynolds K.A., Kerstena R.D., Ryana K.S., Gonzalez D.J., Nizete V., Dorrestein P.C., Moore B.S.  [Direct Cloning and Refactoring of a Silent Lipopeptide Biosynthetic Gene Cluster Yields the Antibiotic Taromycin A (PDF)](https://www.pnas.org/content/pnas/111/5/1957.full.pdf). _Proc. Natl. Acad. Sci. U.S.A._, 2014, 111, 1957–1962.
+Yamanaka K., Reynolds K.A., Kerstena R.D., Ryana K.S., Gonzalez D.J., Nizete V., Dorrestein P.C., Moore B.S.  {{% resource_link "b77dce55-7b91-4e8c-be29-2a1aed03336a" "Direct Cloning and Refactoring of a Silent Lipopeptide Biosynthetic Gene Cluster Yields the Antibiotic Taromycin A (PDF)" %}}. _Proc. Natl. Acad. Sci. U.S.A._, 2014, 111, 1957–1962.
 
-Goering A.W., McClure R.A., Doroghazi J.R., Albright J.C., Haverland N.A., Zhang  Y., Ju K.-S., Thomson R.J., Metcalf W.W., Kelleher N.L. [Metabologenomics: Correlation of Microbial Gene Clusters with Metabolites Drives Discovery of a  Nonribosomal Peptide with an Unusual Amino Acid Monomer](https://pubs.acs.org/doi/10.1021/acscentsci.5b00331). _ACS Cent. Sci._ 2016, 2, 99–108.  
+Goering A.W., McClure R.A., Doroghazi J.R., Albright J.C., Haverland N.A., Zhang  Y., Ju K.-S., Thomson R.J., Metcalf W.W., Kelleher N.L. {{% resource_link "c62a45be-e308-44da-a373-fc4b75f655f6" "Metabologenomics: Correlation of Microbial Gene Clusters with Metabolites Drives Discovery of a  Nonribosomal Peptide with an Unusual Amino Acid Monomer" %}}. _ACS Cent. Sci._ 2016, 2, 99–108.  
  
 
 
@@ -198,9 +198,9 @@ NRPs: Biosynthesis and Enzyme Function/Mechanism
 {{< tdopen >}}
 
 
-Kreitler D.F., Gemmell E.M., Schaffer J.E., Wencewicz T.A., Gulick A.M. [The Structural Basis of N-acyl-alpha-amino-beta-lactone Formation Catalyzed by a Nonribosomal Peptide Synthetase](https://www.nature.com/articles/s41467-019-11383-7). _Nat. Commun._ 2019, 10, 3432.
+Kreitler D.F., Gemmell E.M., Schaffer J.E., Wencewicz T.A., Gulick A.M. {{% resource_link "b0e50fb1-cc5f-4ed4-b3f9-2eeb210048e7" "The Structural Basis of N-acyl-alpha-amino-beta-lactone Formation Catalyzed by a Nonribosomal Peptide Synthetase" %}}. _Nat. Commun._ 2019, 10, 3432.
 
-Dunbar K.L., Dell M., Gude F., Hertweck C. [Reconstitution of Polythioamide  Antibiotic Backbone Formation Reveals Unusual Thiotemplated Assembly Strategy](https://www.pnas.org/content/117/16/8850.long). _Proc. Natl. Acad. Sci. U.S.A._ 2020, 117, 8850–8858.
+Dunbar K.L., Dell M., Gude F., Hertweck C. {{% resource_link "e513cbc3-42da-407a-9ca1-37462303a479" "Reconstitution of Polythioamide  Antibiotic Backbone Formation Reveals Unusual Thiotemplated Assembly Strategy" %}}. _Proc. Natl. Acad. Sci. U.S.A._ 2020, 117, 8850–8858.
 
 
 {{< tdclose >}}
@@ -222,9 +222,9 @@ NRPs: Engineering
 {{< tdopen >}}
 
 
-Niquille D.L., Hansen D.A., Mori T., Fercher D., Kries H., Hilvert D. [Nonribosomal Biosynthesis of Backbone-Modified Peptides](https://www.nature.com/articles/nchem.2891). _Nat. Chem._ 2018, 10, 282–287.
+Niquille D.L., Hansen D.A., Mori T., Fercher D., Kries H., Hilvert D. {{% resource_link "5fc380f5-91b1-4712-8c69-b5bbae544132" "Nonribosomal Biosynthesis of Backbone-Modified Peptides" %}}. _Nat. Chem._ 2018, 10, 282–287.
 
-Awakawa T., Fujioka T., Zhang L., Hoshino S., Hu Z., Hashimoto J., Kozone I., Ikeda H., Shin-Ya K., Liu W., Abe I.  [Reprogramming of the Antimycin NRPS-PKS Assembly Lines Inspired by Gene Evolution (PDF - 1.4MB)](https://www.nature.com/articles/s41467-018-05877-z.pdf). _Nat. Commun._ 2018, 9, 3534.
+Awakawa T., Fujioka T., Zhang L., Hoshino S., Hu Z., Hashimoto J., Kozone I., Ikeda H., Shin-Ya K., Liu W., Abe I.  {{% resource_link "e70b3187-e298-4ae5-9441-14a0242855ff" "Reprogramming of the Antimycin NRPS-PKS Assembly Lines Inspired by Gene Evolution (PDF - 1.4MB)" %}}. _Nat. Commun._ 2018, 9, 3534.
 
 
 {{< tdclose >}}
@@ -246,9 +246,9 @@ Plant NPs
 {{< tdopen >}}
 
 
-Hodgson H., De La Peña R., Stephenson M.J., Thimmappa R., Vincent J.L., Sattely E.S., Osbourn A. [Identification of Key Enzymes Responsible for Protolimonoid Biosynthesis in Plants: Opening the Door to Azadirachtin Production](https://www.pnas.org/content/116/34/17096.long). _Proc. Natl. Acad. Sci. U.S.A._ 2019, 116, 17096–17104.
+Hodgson H., De La Peña R., Stephenson M.J., Thimmappa R., Vincent J.L., Sattely E.S., Osbourn A. {{% resource_link "55297d78-7a6c-460a-99b1-84181a0d15fd" "Identification of Key Enzymes Responsible for Protolimonoid Biosynthesis in Plants: Opening the Door to Azadirachtin Production" %}}. _Proc. Natl. Acad. Sci. U.S.A._ 2019, 116, 17096–17104.
 
-Brown S., Clastre M., Courdavault V., O’Connor S.E. [De Novo Production of the Plant-Derived Alkaloid Strictosidine in Yeast.](https://www.pnas.org/content/112/11/3205) _Proc. Natl. Acad. Sci. U.S.A._ 2015, 112, 3205–3210.
+Brown S., Clastre M., Courdavault V., O’Connor S.E. {{% resource_link "508f8c8c-e523-4269-b42c-f80b914dd71c" "De Novo Production of the Plant-Derived Alkaloid Strictosidine in Yeast." %}} _Proc. Natl. Acad. Sci. U.S.A._ 2015, 112, 3205–3210.
 
 
 {{< tdclose >}}
@@ -270,9 +270,9 @@ Culture-Dependent and Metagenomic Methods of NP Discovery from Complex Environme
 {{< tdopen >}}
 
 
-Helfrich E.J.N., Vogel C.M., Ueoka R., Schäfer M., Ryffel F., Müller D.B., Probst S., Kreuzer M., Piel J., Vorholt J.A. [Bipartite Interactions, Antibiotic Production and Biosynthetic Potential of the _Arabidopsis_ Leaf Microbiome](https://www.nature.com/articles/s41564-018-0200-0). _Nat. Microbiol._ 2018, 3, 909–919.
+Helfrich E.J.N., Vogel C.M., Ueoka R., Schäfer M., Ryffel F., Müller D.B., Probst S., Kreuzer M., Piel J., Vorholt J.A. {{% resource_link "61b23dc1-7dcb-4011-b436-971bf565da0d" "Bipartite Interactions, Antibiotic Production and Biosynthetic Potential of the _Arabidopsis_ Leaf Microbiome" %}}. _Nat. Microbiol._ 2018, 3, 909–919.
 
-Cohen L.J., Han S., Huang Y.-H., Brady S.F. [Identification of the Colicin V Bacteriocin Gene Cluster by Functional Screening of a Human Microbiome Metagenomic Library](https://pubs.acs.org/doi/abs/10.1021/acsinfecdis.7b00081). _ACS Infect. Dis._ 2018, 4, 27–32.
+Cohen L.J., Han S., Huang Y.-H., Brady S.F. {{% resource_link "4d7e5620-b588-4fc1-8163-b7f7e2c1696f" "Identification of the Colicin V Bacteriocin Gene Cluster by Functional Screening of a Human Microbiome Metagenomic Library" %}}. _ACS Infect. Dis._ 2018, 4, 27–32.
 
 
 {{< tdclose >}}
@@ -294,9 +294,9 @@ Applications of NPs in Combating Diseases
 {{< tdopen >}}
 
 
-Anand P., Filipenko P., Huaman J., Lyudmer M., Hossain M., Santamaria C., Huang K., Ogunwobi O.O., Holford M. [Selective Inhibition of Liver Cancer Cells Using Venom Peptide](https://www.mdpi.com/1660-3397/17/10/587/htm). _Mar. Drugs_ 2019, 17, 587.
+Anand P., Filipenko P., Huaman J., Lyudmer M., Hossain M., Santamaria C., Huang K., Ogunwobi O.O., Holford M. {{% resource_link "72d5ade5-6aeb-4343-bcb4-b153fd975b2e" "Selective Inhibition of Liver Cancer Cells Using Venom Peptide" %}}. _Mar. Drugs_ 2019, 17, 587.
 
-Hartkoorn R.C., Sala C., Neres J., Pojer F., Magnet S., Mukherjee R., Uplekar S.,  Boy-Röttger S., Altmann K-H., Cole S.T. [Towards a New Tuberculosis Drug: Pyridomycin - Nature’s Isoniazid](https://www.embopress.org/doi/full/10.1002/emmm.201201689). _EMBO Mol. Med._ 2012, 4, 1032–1042.
+Hartkoorn R.C., Sala C., Neres J., Pojer F., Magnet S., Mukherjee R., Uplekar S.,  Boy-Röttger S., Altmann K-H., Cole S.T. {{% resource_link "a7f89d40-c744-4d19-bd6d-db43a69c1739" "Towards a New Tuberculosis Drug: Pyridomycin - Nature’s Isoniazid" %}}. _EMBO Mol. Med._ 2012, 4, 1032–1042.
 
 
 {{< tdclose >}}
